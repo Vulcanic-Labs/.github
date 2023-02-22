@@ -1,5 +1,5 @@
 <center>
-<img width="300" src="https://raw.githubusercontent.com/Vulcanic-Labs/.github/73ac8b77578ecd2379ad20078d2c838fa4b74521/img/logo_vertical.svg" alt="Vulcanic Labs Banner">
+<img width="300" src="https://raw.githubusercontent.com/Vulcanic-Labs/.github/d013c51113439ed4e812e7db72642a062afccc4e/img/logo_vertical.svg" alt="Vulcanic Labs Banner">
 <p>Building Web3 / Blockchain tools with <strong><u>earth-shaking</u></strong> work ethic and <strong><u>fiery passion</u></strong> from the Philippines.</p>
 </center>
 
