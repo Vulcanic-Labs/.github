@@ -5,7 +5,7 @@
 
 <hr />
 
-# Projects
+# Tools
 
 <div align="center">
 	<table>
@@ -29,6 +29,8 @@
 		</tr>
 	</table>
 </div>
+
+# Examples
 
 # Contact Us
 Want to outsource Web3 / Blockchain talent in the Philippines? Have something you want built? Send us an email: vulcaniclabs@gmail.com
