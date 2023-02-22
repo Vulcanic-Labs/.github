@@ -1,5 +1,5 @@
 <center>
-<img width="300" src="../img/logo_vertical.svg" alt="Vulcanic Labs Banner">
+<img width="300" src="logo_vertical.svg" alt="Vulcanic Labs Banner">
 <p>Building Web3 / Blockchain tools with <strong><u>earth-shaking</u></strong> work ethic and <strong><u>fiery passion</u></strong> from the Philippines.</p>
 </center>
 
