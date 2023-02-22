@@ -1,13 +1,13 @@
-<center>
+<div align="center">
 <img width="300" src="https://raw.githubusercontent.com/Vulcanic-Labs/.github/d013c51113439ed4e812e7db72642a062afccc4e/img/logo_vertical.svg" alt="Vulcanic Labs Banner">
 <p>Building Web3 / Blockchain tools with <strong><u>earth-shaking</u></strong> work ethic and <strong><u>fiery passion</u></strong> from the Philippines.</p>
-</center>
+</div>
 
 <hr />
 
 # Projects
 
-<center>
+<div align="center">
 	<table>
 		<thead>
 			<th>Name</th>
@@ -28,7 +28,7 @@
 			<td><a href="https://github.com/kquirapas">kquirapas</a></td>
 		</tr>
 	</table>
-</center>
+</div>
 
 # Contact Us
 Want to outsource Web3 / Blockchain talent in the Philippines? Have something you want built? Send us an email: vulcaniclabs@gmail.com
